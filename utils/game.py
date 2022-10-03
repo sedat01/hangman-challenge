@@ -24,7 +24,10 @@ class Hangman:
         .lives stores the number of lives. This can be modified to change the initial number of lives.
         Default value is 5
         '''
-        self.possible_words: List[str] = ["becode", "learning", "mathematics", "sessions"]
+        with open("./utils/word_list.txt","r",encoding="utf-8") as word_list:
+            word_list.seek(0)
+            words = word_list.read().split()
+            self.possible_words: List[str] = words
         self.word_to_find: List[str] = [*choice(self.possible_words)]
         self.well_guessed_letters: List[str] = ["_"] * len(self.word_to_find)
         self.bad_guessed_letters: List[str] = []

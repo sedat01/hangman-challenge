@@ -8,7 +8,7 @@ In this version however we play only in the terminal and thus ommit the drawing 
 By default the Player starts with 5 lives, but this can be changed in the source code of the game
 
 ## Installation
-&nbsp;&nbsp;&nbsp;&nbsp; The game needs a python interpreter to be run. Ensure your system has the latest version of python installed.
+&nbsp;&nbsp;&nbsp;&nbsp;The game needs a python interpreter to be run. Ensure your system has the latest version of python installed.
 The game is tested on Python 3.10.5. Just download the files and be sure to maintain folder structure 
 hangman
 │
@@ -18,6 +18,9 @@ hangman
 
 ## Usage
 Just run main.py and game starts. 
+### Word list
+&nbsp;&nbsp;&nbsp;&nbsp;Inside the utils folder there is a file word_list.txt. There are the words to be used by the game.
+You can modify the list to add or remove words. The words must be separated by spaces only.
 ![alt text](https://github.com/sedat01/hangman-challenge/blob/main/image/starting.png)
 ![alt text](https://github.com/sedat01/hangman-challenge/blob/main/image/game_over.png)
 ![alt text](https://github.com/sedat01/hangman-challenge/blob/main/image/game_won.png)
