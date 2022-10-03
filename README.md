@@ -21,3 +21,8 @@ Just run main.py and game starts.
 ![alt text](https://github.com/sedat01/hangman-challenge/blob/main/image/starting.png)
 ![alt text](https://github.com/sedat01/hangman-challenge/blob/main/image/game_over.png)
 ![alt text](https://github.com/sedat01/hangman-challenge/blob/main/image/game_won.png)
+
+## Contributors:
+&nbsp;&nbsp;&nbsp;&nbsp; Sedat Mehmed, junoir Data Analyst @ Becode Gent
+## About the project
+&nbsp;&nbsp;&nbsp;&nbsp; Hangman is a one-day challenge during the AI Bootcamp training of Becode
