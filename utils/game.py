@@ -78,6 +78,9 @@ class Hangman:
         This function is called when the game ends in loss for the Player.
         It prints "Game over..." message
         '''
+        guessed_word: str = ""
+        guessed_word = guessed_word.join(self.word_to_find)
+        print(f"The word was {guessed_word}")
         print("Game over...")
         
     def well_played(self):
