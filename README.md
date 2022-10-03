@@ -18,4 +18,6 @@ hangman
 
 ## Usage
 Just run main.py and game starts. 
-
+![alt text](https://github.com/sedat01/hangman-challenge/blob/main/image/starting.png)
+![alt text](https://github.com/sedat01/hangman-challenge/blob/main/image/game_over.png)
+![alt text](https://github.com/sedat01/hangman-challenge/blob/main/image/game_won.png)
