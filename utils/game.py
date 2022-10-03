@@ -32,6 +32,7 @@ class Hangman:
         self.error_count: int = 0
         self.lives: int = 5
         print("Welcome to Hangman")
+        print(f"Word to guess :{self.well_guessed_letters}")
         
         
         
