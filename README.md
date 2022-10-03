@@ -1,5 +1,5 @@
 # Hangman Game
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/sedat01/hangman-challenge/blob/main/image/hangman.jpg)
 ## Description
 &nbsp;&nbsp;&nbsp;&nbsp;Hangman is game where a random word is choosen and the player has to guess the word.
 The player has limited amount of bad guesses a.k.a lives. The classic version involves drawing hanged man. Every mistake 
